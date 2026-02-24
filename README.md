@@ -19,7 +19,9 @@
 <p align="left">
 <a href="https://github.com/Sprasad-2002"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/shakti-prasad-jena/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:pshakti895@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:pshakti895@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 ---
