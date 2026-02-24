@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakti Prasad</h1>
 <h3 align="center">Python Full Stack Developer | AI Enthusiast 🚀</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python+Developer;AI+Learner;Flask+%2B+TensorFlow;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python Full Stack+Developer;AI+Learner;Open+to+Opportunities" />
 
 ---
 
@@ -24,19 +24,20 @@
 
 ---
 
+---
+
 ### 🚀 Tech Stack
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,js,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-⭐️ From [Shakti](https://github.com/Sprasad-2002)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=tokyonight" />
+</p>
