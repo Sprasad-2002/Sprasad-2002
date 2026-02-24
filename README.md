@@ -38,9 +38,12 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=radical" />
 </p>
 
-## GitHub Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprasad-2002&theme=radical" />
+<img src="https://img.shields.io/badge/Coding%20Streak-00FF00?style=for-the-badge&logo=hackaday&logoColor=black" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprasad-2002&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
