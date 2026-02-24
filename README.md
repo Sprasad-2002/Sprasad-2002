@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakti Prasad</h1>
 <h3 align="center">Python Full Stack Developer | AI Enthusiast 🚀</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python Full Stack+Developer;AI+Learner;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python+Full+Stack+Developer;AI+Learner;Open+to+Opportunities" />
 
 ---
 
@@ -18,7 +18,7 @@
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://github.com/Sprasad-2002"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/shakti-prasad-jena/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:pshakti895@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
