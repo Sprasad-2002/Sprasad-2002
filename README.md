@@ -38,6 +38,11 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=radical" />
 </p>
 
+## GitHub Streak Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprasad-2002&theme=radical" />
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=radical" />
 </p>
