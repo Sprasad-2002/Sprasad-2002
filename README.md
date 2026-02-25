@@ -5,6 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Full+Stack+Developer;AI+Learner;Open+to+Opportunities" />
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -13,7 +17,7 @@
 - 🌱 Learning **Python Full Stack + SQL**
 - 👯 Looking to collaborate on **AI & Web Projects**
 - 💬 Ask me about **Python, SQL, Django, Web Technology**
-- 📫 Reach me: [pshakti895@gmail.com](mailto:pshakti895@gmail.com)
+- 📫 Reach me: [Send Email](https://mail.google.com/mail/?view=cm&fs=1&to=pshakti895@gmail.com)
 
 ---
 
@@ -21,7 +25,7 @@
 <p align="center">
 <a href="https://github.com/Sprasad-2002"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/shakti-prasad-jena/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:pshakti895@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pshakti895@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
