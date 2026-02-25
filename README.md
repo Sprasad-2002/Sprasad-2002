@@ -39,20 +39,19 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprasad-2002&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprasad-2002&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-<i>"Building scalable web apps with Python today, shaping intelligent solutions for tomorrow."</i>
+<i>"Building real-world solutions with Python today, aiming to create intelligent systems tomorrow."</i>
 </p>
-
 ---
 
 ⭐ From [Shakti](https://github.com/Sprasad-2002)
