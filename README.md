@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shakti Prasad</h1>
+<h1 align="center">Hi 👋, I'm Shakti Prasad Jena !!! </h1>
 <h3 align="center">Python Full Stack Developer | AI Enthusiast 🚀</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 </p>
 
 ---
