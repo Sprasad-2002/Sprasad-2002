@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shakti Prasad Jena !!! </h1>
+<h1 align="center">Hi 👋, I'm Shakti Prasad Jena ! </h1>
 <h3 align="center">Python Full Stack Developer | AI Enthusiast 🚀</h3>
 
 <p align="center">
@@ -6,14 +6,12 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600 px " />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500px"/>
 </p>
-
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE Graduate  
-- 🔭 Currently working on **Skin Disease Detection System (Flask + EfficientNetV2B0)**
+- 🎓 B.Tech CSE Graduate (2025)
 - 🌱 Learning **Python Full Stack + SQL**
 - 👯 Looking to collaborate on **AI & Web Projects**
 - 💬 Ask me about **Python, SQL, Django, Web Technology**
