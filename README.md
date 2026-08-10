@@ -1,10 +1,16 @@
+<div align="center">
+
 # 👋 Hi, I'm Shakti Prasad Jena
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Django+%7C+SQL+%7C+Python;Building+Projects+%26+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Django+%7C+Flask+%7C+SQL;Building+Real-World+Projects+%F0%9F%9A%80" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+
+</div>
+
+---
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
@@ -18,145 +24,171 @@
 
 💬 Ask me about **Python, SQL, Django, Flask & Web Development**
 
-🚀 Currently focused on becoming a **job-ready Python Developer**
+🚀 Focused on becoming a **Job-Ready Python Developer**
 
-📫 Reach me: **[pshakti895@gmail.com](mailto:pshakti895@gmail.com)**
+📫 **Email:** [pshakti895@gmail.com](mailto:pshakti895@gmail.com)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Backend
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,django,flask" />
 
 ### 🗄️ Database
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 
 ### 🌐 Frontend & Tools
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,git,github,vscode" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🚀 Featured Projects
+
+</div>
 
 ### 🩺 Skin Disease Detection System
 
-AI-powered web application for detecting skin diseases using **Deep Learning and EfficientNetV2B0**.
+<div align="center">
 
-**Tech:** Python • TensorFlow • Keras • Flask • SQLite • OpenCV
+AI-powered web application that detects skin diseases using **Deep Learning and EfficientNetV2B0**.
 
-🔗 Repository: `Skin-Disease-Detection-System`
+**Python • TensorFlow • Keras • Flask • SQLite • OpenCV**
+
+<a href="https://github.com/Sprasad-2002/Skin-Disease-Detection-System">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-Skin%20Disease%20Detection-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
 ### 🔖 Smart Bookmark App
 
+<div align="center">
+
 A modern bookmark management application with authentication, database integration and realtime functionality.
 
-**Tech:** Next.js • Supabase • Tailwind CSS
+**Next.js • Supabase • Tailwind CSS**
 
-🔗 Repository: `smart-bookmark`
+<a href="https://github.com/Sprasad-2002/smart-bookmark">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-Smart%20Bookmark-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
 ### 🎬 Netflix Django Clone
 
-A Netflix-inspired web application built while learning Django, templates, database integration and web development concepts.
+<div align="center">
 
-**Tech:** Python • Django • HTML • CSS • SQLite
+A Netflix-inspired web application built using Django, templates and database integration.
 
-🔗 Repository: `Netflix-Django-Clone`
+**Python • Django • HTML • CSS • SQLite**
+
+<a href="https://github.com/Sprasad-2002/Netflix-Django-Clone">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-Netflix%20Django%20Clone-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sprasad-2002&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Sprasad-2002&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sprasad-2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sprasad-2002/Sprasad-2002/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<img src="https://raw.githubusercontent.com/Sprasad-2002/Sprasad-2002/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
 <a href="https://github.com/Sprasad-2002">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:pshakti895@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 ## 💡 Current Focus
 
 ```text
-Python Full Stack Development
-        ↓
-Django + REST APIs
-        ↓
-SQL & Database Management
-        ↓
-Frontend Technologies
-        ↓
-AI / Machine Learning
-        ↓
-Building Real-World Projects 🚀
-```
-
----
-
-<h3 align="center">✨ Keep Learning. Keep Building. Keep Growing. ✨</h3>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+🐍 Python Full Stack Development
+              ↓
+🌐 Django + REST APIs
+              ↓
+🗄️ SQL & Database Management
+              ↓
+🎨 Frontend Technologies
+              ↓
+🤖 AI / Machine Learning
+              ↓
+🚀 Building Real-World Projects
