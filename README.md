@@ -118,23 +118,12 @@ A Netflix-inspired web application built using Django, templates and database in
 
 <div align="center">
 
-## 📊 GitHub Insights
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Sprasad-2002&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=Sprasad-2002&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -142,9 +131,12 @@ A Netflix-inspired web application built using Django, templates and database in
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sprasad-2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sprasad-2002&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -154,7 +146,22 @@ A Netflix-inspired web application built using Django, templates and database in
 
 ## 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/Sprasad-2002/Sprasad-2002/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sprasad-2002/Sprasad-2002/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sprasad-2002/Sprasad-2002/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Sprasad-2002/Sprasad-2002/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
@@ -165,11 +172,15 @@ A Netflix-inspired web application built using Django, templates and database in
 ## 🌐 Connect With Me
 
 <a href="https://github.com/Sprasad-2002">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 <a href="mailto:pshakti895@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
 
 </div>
@@ -180,15 +191,36 @@ A Netflix-inspired web application built using Django, templates and database in
 
 ## 💡 Current Focus
 
-```text
-🐍 Python Full Stack Development
-              ↓
-🌐 Django + REST APIs
-              ↓
-🗄️ SQL & Database Management
-              ↓
-🎨 Frontend Technologies
-              ↓
-🤖 AI / Machine Learning
-              ↓
-🚀 Building Real-World Projects
+🐍 **Python Full Stack Development**
+
+⬇️
+
+🌐 **Django + REST APIs**
+
+⬇️
+
+🗄️ **SQL & Database Management**
+
+⬇️
+
+🎨 **Frontend Technologies**
+
+⬇️
+
+🤖 **AI / Machine Learning**
+
+⬇️
+
+🚀 **Building Real-World Projects**
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning • Keep Building • Keep Growing ✨
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
